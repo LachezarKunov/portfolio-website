@@ -18,15 +18,21 @@ function Header() {
                 </div>
                 
                 <div className = "nav-buttons-container">
-                    <NavLink to="/">
-                        <FontAwesomeIcon icon={faHome} /> Home
-                    </NavLink>
-                    <NavLink to="/projects">
-                        <FontAwesomeIcon icon={faProjectDiagram} /> Projects
-                    </NavLink>
-                    <NavLink onClick={openCV}>
-                        <FontAwesomeIcon icon={faFileAlt} /> CV
-                    </NavLink>
+                    <div>
+                        <NavLink to="/">
+                            <FontAwesomeIcon icon={faHome} /> Home
+                       </NavLink>
+                    </div>
+                    <div>
+                        <NavLink to="/projects">
+                            <FontAwesomeIcon icon={faProjectDiagram} /> Projects
+                        </NavLink>
+                    </div>
+                    <div>
+                        <NavLink onClick={openCV}>
+                            <FontAwesomeIcon icon={faFileAlt} /> CV
+                        </NavLink>
+                    </div>
                 </div>
 
             </nav> 

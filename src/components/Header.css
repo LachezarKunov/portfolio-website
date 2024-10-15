@@ -1,15 +1,21 @@
-nav
-{
+nav {
     position: fixed;
     top: 0;
-    left: 0;
-
-    width: 100%;
+    width: 80vw;
+    margin-top: 15px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
-.nav-buttons-container > *
-{
-    margin: 0 15px 0 15px;
+.nav-buttons-container {
+    display: flex;
+}
+
+.nav-buttons-container div {
+    margin-left: 15px;
+}
+
+.img-container {
+    height: 300px;
+    width: auto;
 }
