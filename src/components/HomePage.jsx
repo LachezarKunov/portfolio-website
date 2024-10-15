@@ -8,10 +8,10 @@ function HomePage () {
             <div className="text-container">
                 <h1>Welcome.</h1>
                 <p>
-                I’m Lachezar Kunov,<br></br> 
-                a third-year student in Information Systems.<br></br> 
-                As a motivated software engineer,<br></br>
-                I am eager to enhance my skills in software development and contribute to innovative projects.
+                I'm Lachezar Kunov, <br></br>
+                a third-year Information Systems student with a strong enthusiasm for software engineering.<br></br>
+                I'm excited to kickstart my career in the IT industry and contribute to developing innovative solutions.<br></br>
+                With practical experience in the field, I'm eager to apply my skills and knowledge to real-world projects.
                 </p>
             </div>
             <div className="img-container">
