@@ -10,32 +10,33 @@ function Header() {
     }
     return (
         <>
-            <nav>
-                <div>
-                    <NavLink to="/">
-                        LK
-                    </NavLink>
-                </div>
-                
-                <div className = "nav-buttons-container">
+            <div className = 'nav-container'>
+                <nav>
                     <div>
                         <NavLink to="/">
-                            <FontAwesomeIcon icon={faHome} /> Home
-                       </NavLink>
-                    </div>
-                    <div>
-                        <NavLink to="/projects">
-                            <FontAwesomeIcon icon={faProjectDiagram} /> Projects
+                            LK
                         </NavLink>
                     </div>
-                    <div>
-                        <NavLink onClick={openCV}>
-                            <FontAwesomeIcon icon={faFileAlt} /> CV
+                    
+                    <div className = "nav-buttons-container">
+                        <div>
+                            <NavLink to="/">
+                                <FontAwesomeIcon icon={faHome} /> Home
                         </NavLink>
+                        </div>
+                        <div>
+                            <NavLink to="/projects">
+                                <FontAwesomeIcon icon={faProjectDiagram} /> Projects
+                            </NavLink>
+                        </div>
+                        <div>
+                            <NavLink onClick={openCV}>
+                                <FontAwesomeIcon icon={faFileAlt} /> CV
+                            </NavLink>
+                        </div>
                     </div>
-                </div>
-
-            </nav> 
+                </nav>
+            </div>
         </>
     );
 }
