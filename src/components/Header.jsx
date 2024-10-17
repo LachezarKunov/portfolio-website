@@ -6,7 +6,7 @@ import './Header.css'
 
 function Header() {
     const openCV = () => {
-        window.open('/assets/CV.pdf', '_blank')
+        window.open('public/assets/CV.pdf', '_blank')
     }
     return (
         <>
