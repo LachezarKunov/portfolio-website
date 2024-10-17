@@ -9,7 +9,7 @@
             <>  
             <h1>Personal Projects</h1>
 
-            <SectionTitle imgSrc='../../public/assets/cpp-logo.png' title = 'Projects'></SectionTitle>
+            <SectionTitle imgSrc='/assets/cpp-logo.png' title = 'Projects'></SectionTitle>
 
             <p className = 'technology-paragraph'>I appreciate C++ for its speed and efficient memory management. Starting at university, I gained a deep understanding of its core principles and advanced features. This strong foundation not only allows me to handle complex projects but also broadens my understanding of concepts in other programming languages.
             </p>
@@ -40,7 +40,7 @@
             </CardContainer>
 
             
-            <SectionTitle imgSrc='../../public/assets/react-logo.png' title = 'Projects'></SectionTitle>
+            <SectionTitle imgSrc='/assets/react-logo.png' title = 'Projects'></SectionTitle>
 
             <p className = 'technology-paragraph'>
                 React is a dynamic and versatile JavaScript library that I have grown enthusiastic about throughout my learning journey. I began teaching myself React, 
@@ -54,7 +54,7 @@
             </CardContainer>
 
             
-            <SectionTitle imgSrc = '../../public/assets/htmlcssjs-logo.png' title = 'Projects'></SectionTitle>
+            <SectionTitle imgSrc = '/assets/htmlcssjs-logo.png' title = 'Projects'></SectionTitle>
 
             <p className = 'technology-paragraph'>
             Working with HTML, CSS, and JavaScript has shaped my web development skills and fueled my passion for building websites. 

@@ -15,7 +15,7 @@ function HomePage () {
                 </p>
             </div>
             <div className="img-container">
-                <img src="../../public/assets/software-engineer.png" alt="" />
+                <img src="/assets/software-engineer.png" alt="" />
             </div>
         </div>
         </>
