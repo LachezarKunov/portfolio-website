@@ -1,5 +1,5 @@
 .card-container {
-    width: 250px;
+    width: 270px;
     height: 400px;
     padding: 5px;
     margin-bottom: 15px;
@@ -27,25 +27,25 @@
 
 button {
     margin-bottom: 5px;
-    background-color: #ffffff; /* White background */
-    color: #000000; /* Black text */
-    border: none; /* Remove border */
-    padding: 10px 20px; /* Padding for the button */
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
     width: 120px;
-    font-size: 16px; /* Adjust font size */
-    border-radius: 5px; /* Rounded corners */
-    cursor: pointer; /* Cursor changes to pointer on hover */
-    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 button:hover {
-    background-color: #cccccc; /* Light gray background on hover */
-    color: #000000; /* Keep text black on hover */
+    background-color: #cccccc;
+    color: #000000;
 }
 
 button:active {
-    background-color: #aaaaaa; /* Darker gray when button is clicked */
-    color: #ffffff; /* White text on active state */
+    background-color: #aaaaaa;
+    color: #ffffff;
 }
 
 .card-buttons {
@@ -55,7 +55,7 @@ button:active {
 }
 
 .card-description {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .technology-paragraph {
