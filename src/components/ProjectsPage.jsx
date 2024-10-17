@@ -43,17 +43,12 @@
             <SectionTitle imgSrc='../../public/assets/react-logo.png' title = 'Projects'></SectionTitle>
 
             <p className = 'technology-paragraph'>
-                React is a dynamic and versatile JavaScript library that I have grown enthusiastic about throughout my learning journey. I initially began teaching myself React, 
-                driven by a passion for building interactive user interfaces, 
-                before formalizing my knowledge through an elective course at university.
+                React is a dynamic and versatile JavaScript library that I have grown enthusiastic about throughout my learning journey. I began teaching myself React, 
+                driven by a passion for building interactive user interfaces.
             </p>
 
             <CardContainer>
                 <ProjectCard title='Portfolio Website' description = {'This portfolio project, created using React, showcases a variety of my work across multiple programming languages, including C++, HTML, CSS, JavaScript and React.'} githubURL={'https://github.com/LachezarKunov/portfolio-website'}></ProjectCard>
-                <ProjectCard></ProjectCard>
-                <ProjectCard></ProjectCard>
-
-                <ProjectCard></ProjectCard>
                 <ProjectCard></ProjectCard>
                 <ProjectCard></ProjectCard>
             </CardContainer>
