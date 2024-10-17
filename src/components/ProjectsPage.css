@@ -1,8 +1,4 @@
-h2 {
+h1, h2 {
     text-align: center;
 }
 
-.cards-container {
-    display: flex;
-    justify-content: space-between;
-}
