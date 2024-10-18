@@ -24,3 +24,9 @@ nav {
     height: 300px;
     width: auto;
 }
+
+@media (max-width: 600px) {
+    nav {
+        font-size: 18px;
+    }
+}
