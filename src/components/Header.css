@@ -16,7 +16,17 @@ nav {
     margin-left: 15px;
 }
 
+.nav-logo-container {
+    margin-right: 15px;
+}
+
 .img-container {
     height: 300px;
     width: auto;
+}
+
+@media (max-width: 600px) {
+    nav {
+        font-size: 18px;
+    }
 }
