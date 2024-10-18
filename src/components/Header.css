@@ -16,6 +16,10 @@ nav {
     margin-left: 15px;
 }
 
+.nav-logo-container {
+    margin-right: 15px;
+}
+
 .img-container {
     height: 300px;
     width: auto;

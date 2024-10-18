@@ -12,7 +12,7 @@ function Header() {
         <>
             <div className = 'nav-container'>
                 <nav>
-                    <div>
+                    <div className='nav-logo-container'>
                         <NavLink to="/">
                             LK
                         </NavLink>
