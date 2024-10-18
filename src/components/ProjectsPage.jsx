@@ -40,19 +40,6 @@
             </CardContainer>
 
             
-            <SectionTitle imgSrc='/assets/react-logo.png' title = 'Projects'></SectionTitle>
-
-            <p className = 'technology-paragraph'>
-                React is a dynamic and versatile JavaScript library that I have grown enthusiastic about throughout my learning journey. I began teaching myself React, 
-                driven by a passion for building interactive user interfaces.
-            </p>
-
-            <CardContainer>
-                <ProjectCard title='Portfolio Website' description = {'This portfolio project, created using React, showcases a variety of my work across multiple programming languages, including C++, HTML, CSS, JavaScript and React.'} githubURL={'https://github.com/LachezarKunov/portfolio-website'}></ProjectCard>
-                <ProjectCard></ProjectCard>
-                <ProjectCard></ProjectCard>
-            </CardContainer>
-
             
             <SectionTitle imgSrc = '/assets/htmlcssjs-logo.png' title = 'Projects'></SectionTitle>
 
@@ -66,6 +53,19 @@
                 <ProjectCard title = 'Tic Tac Toe' description={'Developed a fully functional Tic Tac Toe web app using HTML, CSS, and JavaScript. The game allows two players to take turns marking the grid, and it dynamically checks for win conditions or ties. It features a clean, responsive design with a user-friendly interface.'} githubURL={'https://github.com/LachezarKunov/tic-tac-toe'} demoURL={'https://lachezarkunov.github.io/tic-tac-toe/'}></ProjectCard>
                 <ProjectCard title = 'Rock Paper Scissors' description={'I created a Rock-Paper-Scissors web app using HTML, CSS, and JavaScript. The game enables players to select their choice and compete against a computer opponent, with real-time score tracking and round outcomes displayed on the screen. Its simple and engaging design ensures a fun user experience while showcasing basic interactive features.'} githubURL={'https://github.com/LachezarKunov/rock-paper-scissors-2024'} demoURL={'https://lachezarkunov.github.io/rock-paper-scissors-2024/'}></ProjectCard>
                 <ProjectCard title = 'SketchPad' description={'I developed a Sketchpad web app using HTML, CSS, and JavaScript that allows users to draw freely on a customizable grid. Users can easily change the grid size, enabling various levels of detail in their artwork.'} githubURL={'https://github.com/LachezarKunov/SketchPad-Project'} demoURL={'https://lachezarkunov.github.io/SketchPad-Project/'}></ProjectCard>
+            </CardContainer>
+
+            <SectionTitle imgSrc='/assets/react-logo.png' title = 'Projects'></SectionTitle>
+
+            <p className = 'technology-paragraph'>
+                React is a dynamic and versatile JavaScript library that I have grown enthusiastic about throughout my learning journey. I began teaching myself React, 
+                driven by a passion for building interactive user interfaces.
+            </p>
+
+            <CardContainer>
+                <ProjectCard title='Portfolio Website' description = {'This portfolio project, created using React, showcases a variety of my work across multiple programming languages, including C++, HTML, CSS, JavaScript and React.'} githubURL={'https://github.com/LachezarKunov/portfolio-website'} demoURL={'https://lovely-dieffenbachia-913c07.netlify.app/'}></ProjectCard>
+                <ProjectCard></ProjectCard>
+                <ProjectCard></ProjectCard>
             </CardContainer>
             </>
         )  
