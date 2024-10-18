@@ -4,14 +4,12 @@ Welcome to my portfolio website repository! This project showcases my skills, pr
 
 ## Introduction
 
-This repository hosts the source code for my personal portfolio website built with React. It includes sections for displaying my projects, skills, experience, and contact information. The website is designed to be responsive and visually appealing, providing visitors with an overview of my work and abilities.
+This repository hosts the source code for my personal portfolio website built with React. It includes sections for displaying my projects, skills, experience, and CV. The website is designed to be responsive and visually appealing, providing visitors with an overview of my work and abilities.
 
 ## Features
 
 - **Projects Showcase**: Displaying my projects with descriptions, links, and technologies used.
 - **Skills Section**: Highlighting my technical skills and expertise.
-- **Experience**: Sharing my professional background and achievements.
-- **Contact Form**: A form allowing visitors to get in touch with me.
 - **Responsive Design**: Ensuring usability across various devices and screen sizes.
 
 ## Technologies Used
