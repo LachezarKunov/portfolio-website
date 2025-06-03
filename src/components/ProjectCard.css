@@ -1,66 +1,65 @@
 .card-container {
-    width: 270px;
-    height: 400px;
-    padding: 5px;
-    margin-bottom: 15px;
+  width: 270px;
+  height: 400px;
+  padding: 5px;
+  margin-bottom: 15px;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 
-    border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .card-title {
-    text-align: center;
-    font-weight: bold;
-    margin-top: 5px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 5px;
 }
 
 .card-description {
-    margin: 5px;
+  margin: 5px;
 }
 
-
 button {
-    margin-bottom: 5px;
-    background-color: #ffffff;
-    color: #000000;
-    border: none;
-    padding: 10px 20px;
-    width: 120px;
-    font-size: 16px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, color 0.3s ease;
+  margin-bottom: 5px;
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  width: 120px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 button:hover {
-    background-color: #cccccc;
-    color: #000000;
+  background-color: #cccccc;
+  color: #000000;
 }
 
 button:active {
-    background-color: #aaaaaa;
-    color: #ffffff;
+  background-color: #aaaaaa;
+  color: #ffffff;
 }
 
 .card-buttons {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
 }
 
 .card-description {
-    font-size: 17px;
+  font-size: 17px;
 }
 
 .technology-paragraph {
-    font-size: 20px;
-    line-height: 24px;
-    font-style: italic;
-    margin-bottom: 30px;
+  font-size: 20px;
+  line-height: 24px;
+  font-style: italic;
+  margin-bottom: 30px;
 }
