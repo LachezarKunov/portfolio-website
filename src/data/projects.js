@@ -51,7 +51,7 @@ export const projects = [
     category: "fullstack",
     title: "Personal Cloud Web App",
     description:
-      "Building a fullstack cloud storage app in a team of 5 using React, Express, and TypeScript. I implemented JWT-based authentication (login and register) on both frontend and backend, and I’m working on core features like file handling and directory sharing. I also contribute to architectural decisions, data modeling, and code reviews. The project is currently in progress and will be deployed soon.",
+      "Built a fullstack cloud storage app in a team of 5 using React, Express, and TypeScript. I implemented JWT-based authentication (login and register) on both frontend and backend, and worked on core features like file handling and directory sharing. I also contribute to architectural decisions, data modeling, and code reviews.",
     githubURL: "https://github.com/NikolayDinkov/WT-MonoRepo",
   },
   {
